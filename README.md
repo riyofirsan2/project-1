@@ -1,0 +1,8 @@
+# Biodata pasien suspek coronavirus
+
+## Berikut adalah daftar nama pasien yang dicurigai coronavirus
+
+* Andi
+* Eko 
+* Iwan
+* Tina
